@@ -7,5 +7,7 @@ class Simple{
         
         System.out.println("4 Commit"); 
         System.out.println("5 Commit"); 
+        System.out.println("5 Commit"); 
+        System.out.println("5 Commit"); 
     }  
 } 
